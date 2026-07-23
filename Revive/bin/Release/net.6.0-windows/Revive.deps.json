@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Revive/1.0.0": {
+        "dependencies": {
+          "WindowsAPICodePack.Shell.CommonFileDialogs": "1.1.5",
+          "ini-parser": "2.5.2"
+        },
+        "runtime": {
+          "Revive.dll": {}
+        }
+      },
+      "ini-parser/2.5.2": {
+        "runtime": {
+          "lib/net20/INIFileParser.dll": {
+            "assemblyVersion": "2.5.2.0",
+            "fileVersion": "2.5.2.0"
+          }
+        }
+      },
+      "WindowsAPICodePack.Shell.CommonFileDialogs/1.1.5": {
+        "runtime": {
+          "lib/net6.0-windows7.0/WindowsAPICodePack.Shell.CommonFileDialogs.dll": {
+            "assemblyVersion": "1.1.5.0",
+            "fileVersion": "1.1.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ini-parser/2.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hp3gKmC/14+6eKLgv7Jd1Z7OV86lO+tNfOXr/stQbwmRhdQuXVSvrRAuAe7G5+lwhkov0XkqZ8/bn1PYWMx6eg==",
+      "path": "ini-parser/2.5.2",
+      "hashPath": "ini-parser.2.5.2.nupkg.sha512"
+    },
+    "WindowsAPICodePack.Shell.CommonFileDialogs/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nr+QjTXFHI1AMWZ2PlauoX+z+PRjgXfATMNBVHhsGU3NQM8b2eMqbOiP/xLK5STPKR8MtZJ6/RWF5Y0H4ffjLg==",
+      "path": "windowsapicodepack.shell.commonfiledialogs/1.1.5",
+      "hashPath": "windowsapicodepack.shell.commonfiledialogs.1.1.5.nupkg.sha512"
+    }
+  }
+}
