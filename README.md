@@ -1,4 +1,5 @@
 # Revive-Launcher
 Our Open sourced launcher
 Download the .zip to get everything correctly in order
-<img width="177" height="166" alt="image" src="https://github.com/user-attachments/assets/9a95e65c-d572-4637-badc-3eeef7f42df6" />
+<img width="1280" height="1441" alt="image" src="https://github.com/user-attachments/assets/7aa5e066-5ed1-4128-9d76-f58c7f3e1e4c" />
+<img width="684" height="385" alt="image" src="https://github.com/user-attachments/assets/a997cc92-f766-4121-8ddf-031f54b929c9" />
